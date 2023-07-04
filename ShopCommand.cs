@@ -23,7 +23,7 @@ namespace ShopUI
         }
         public string Syntax
         {
-            get { return "bankasoy"; }
+            get { return ""; }
         }
         public AllowedCaller AllowedCaller
         {
